@@ -34,7 +34,7 @@ def start_sniper():
     chars = string.ascii_lowercase + string.digits
     combinations = [a + b for a in chars for b in chars]
     
-    print(f"--- KUZEY SNIPER 2.0 ACTIVE DISCORD @Z6VB ---")
+    print(f"--- KUZEY SNIPER 2.0 ACTIVE
     
     while True:
         for code in combinations:
