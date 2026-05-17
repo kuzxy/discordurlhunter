@@ -1,4 +1,4 @@
-# Kuzey Sniper 2.0 - Vanity URL Hunter DISCORD
+# Weanlie Sniper 2.0 - Vanity URL Hunter DISCORD
 
 ## English Description
 
